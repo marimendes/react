@@ -1,5 +1,5 @@
 import React from 'react'
 
-function() {
+export default function() {
 	return <h1>Primeiro Componente!</h1>
 }
